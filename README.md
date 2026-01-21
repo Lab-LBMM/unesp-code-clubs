@@ -1,4 +1,4 @@
-# Code Club Python & Bioinformática - UNESP Rio Claro
+# Code Club Python, Biologia e Bioinformática - UNESP Rio Claro
 
 Grupo de estudos dedicado ao aprendizado de Python aplicado à Bioinformática. O foco está no desenvolvimento de competências técnicas por meio da troca de experiências e da resolução colaborativa de problemas biológicos.
 
@@ -8,7 +8,7 @@ Grupo de estudos dedicado ao aprendizado de Python aplicado à Bioinformática. 
 
 ## Funcionamento dos Encontros
 
-As reuniões ocorrem quinzenalmente e são abertas a toda a comunidade acadêmica. Para mais informações, entre em contato pelo e-mail [renatoacsantos@gmail.com](mailto:renatoacsantos@gmail.com).
+As reuniões ocorrem quinzenalmente e são abertas a toda a comunidade acadêmica. Para mais informações, entre em contato pelo e-mail pessoal do Dr. Renato Santos ([renatoacsantos@gmail.com](mailto:renatoacsantos@gmail.com)) ou do Laboratório de Bioinformática e Multi-ômicas de Microrganismos ([labbmmicro@gmail.com](mailto:labbmmicro@gmail.com)).
 
 |             | Detalhes                                                        |
 | :---------- | :-------------------------------------------------------------- |
@@ -24,8 +24,8 @@ A cada reunião, um integrante assume a condução do grupo, apresentando e disc
 
 ## Participação
 
-Não há pré-requisitos de conhecimento prévio. O Code Club acolhe tanto iniciantes, que estão dando os primeiros passos na linguagem, quanto usuários mais experientes que já utilizam Phyton em suas rotinas acadêmicas.
+Não há pré-requisitos de conhecimento prévio. O Code Club acolhe tanto iniciantes, que estão dando os primeiros passos na linguagem, quanto usuários mais experientes que já utilizam Python em suas rotinas acadêmicas.
 
 ---
 
-**Coordenação:** Renato Augusto Corrêa dos Santos
+**Coordenação:** [Dr. Renato Augusto Corrêa dos Santos](https://github.com/SantosRAC)
