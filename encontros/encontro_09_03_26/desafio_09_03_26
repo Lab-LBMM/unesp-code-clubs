@@ -1,0 +1,22 @@
+## **Desafio:** Localizando um primer
+**Responsável:** Letícia Melo
+
+A sequência de DNA abaixo foi obtida em um experimento:
+
+```
+sequencia = 'ACGTACGTACGTACGTACGTACGTACGTACGTACGTACGTACGTACGTACGTACGTACGTACGTACGTACGTACGTACGTACGTACGTACGTACGTACGTATGCGTACGTTAGCTAGATTACAGATTACAGATTACAGATTACAGATTACAGATTACAGATTACAGATTACAGATTACAGATTACAGATTACAGAT'
+```
+
+Um primer é uma pequena sequência de DNA conhecida que funciona como um “marcador”, indicando exatamente em que parte de uma sequência maior um processo biológico deve começar. O primer utilizado foi:
+
+``` 
+primer = "ATGCGTACGTTAGCTA"
+```
+
+Desenvolva um pequeno programa que verifique se o primer existe na sequência e, caso positivo, informe a localização da primeira base do primer na sequência de DNA. Considere que a contagem das posições começa em 0.
+
+Dicas: você pode utilizar .find e a estruturação if/else.
+
+Exemplos de saída: 
+"Primer encontrado na sequência." ou "Primer não encontrado na sequência."
+"Primer encontrado na posição: 5"
