@@ -20,6 +20,8 @@ As reuniões ocorrem quinzenalmente e são abertas a toda a comunidade acadêmic
 
 A cada reunião, um integrante assume a condução do grupo, apresentando e discutindo um script ou código específico. Essa dinâmica incentiva a prática da exposição técnica e a resolução coletiva de problemas.
 
+> ### [Acesse o cronograma de encontros](cronograma)
+
 ---
 
 ## Participação
