@@ -10,7 +10,7 @@ sequencia = 'ACGTACGTACGTACGTACGTACGTACGTACGTACGTACGTACGTACGTACGTACGTACGTACGTACG
 Um primer é uma pequena sequência de DNA conhecida que funciona como um “marcador”, indicando exatamente em que parte de uma sequência maior um processo biológico deve começar. O primer utilizado foi:
 
 ``` 
-primer = "ATGCGTACGTTAGCTA"
+primer = 'ATGCGTACGTTAGCTA'
 ```
 
 Desenvolva um pequeno programa que verifique se o primer existe na sequência e, caso positivo, informe a localização da primeira base do primer na sequência de DNA. Considere que a contagem das posições começa em 0.
