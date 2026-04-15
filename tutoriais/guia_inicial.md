@@ -71,24 +71,24 @@ O Discord é a nossa ferramenta principal de comunicação.
 unesp-code-clubs/
 ├── README.md (apresentação do projeto, objetivos, como participar)
 ├── LICENSE
-├── cronograma_encontros/ (cronograma)
+├── desafios_anteriores.md/ 
 ├── encontros/
-│ ├── encontro_26_01_26/
-│ │ ├── anotacoes.md (resumo do que aprendemos nesse encontro)
+│ ├── encontro_DD_MM_AA/
 │ │ ├── desafio.md (enunciado)
 │ │ ├── solucao_nome1.ipynb
-│ │ └── solucao_nome2.py (outros)
-│ ├── encontro_09_03_26/
+│ │ └── solucao_nome2.ipynb (opcional)
+│ ├── encontro_DD_MM_AA/
 │ └── [....]
 ├── tutoriais/
-│ ├── como_começar.md 
-│ └── referencias.md
-└── templates/ (pra termos um padrão)
-   ├── template_desafio.md 
-   └── template_solucao.ipynb
+│ ├── guia_inicial.md 
+│ └── guia_PR.md
+
 ```
 
 > Fluxo: criar branch > adicionar arquivos > commit > push > pull request (PR).
+
+Para compreender melhor esses passos, criamos um [guia](/tutoriais/guia_PR.md) para **facilitar a criação de um Pull Request (PR)**.
+
 - A cada quinzena teremos 1 desafio. Um propõe, todos resolvem, um apresenta e o grupo discute. Após a reunião, o responsável irá adicionar uma nova pasta no repositório, seguindo os templates e mantendo a padronização, mas também aprendendo um pouco de GitHub 
 
 Bem-vindos ao Code Club! Se precisar de ajuda em **qualquer etapa**, sinta-se à vontade para chamar um de nós para te ajudar.
