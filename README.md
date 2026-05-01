@@ -1,6 +1,6 @@
-# Code Club Python, Biologia e Bioinformática - UNESP Rio Claro
+# Code Club Python e Dados Biológicos - UNESP Rio Claro
 
-Grupo de estudos dedicado ao aprendizado de Python aplicado à Bioinformática. O foco está no desenvolvimento de competências técnicas por meio da troca de experiências e da resolução colaborativa de problemas biológicos.
+Grupo de estudos dedicado ao aprendizado de Python aplicado a Dados Biológicos. O foco está no desenvolvimento de competências técnicas por meio da troca de experiências e da resolução colaborativa de problemas biológicos.
 
 > O grupo busca promover um aprendizado horizontal, no qual membros de diferentes níveis de formação em Ciências Biológicas, Ciências da Computação e áreas afins colaboram para desenvolver novas habilidades em Python.
 
