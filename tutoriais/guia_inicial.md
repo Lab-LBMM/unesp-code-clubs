@@ -73,11 +73,11 @@ unesp-code-clubs/
 ├── LICENSE
 ├── desafios_anteriores.md/ 
 ├── encontros/
-│ ├── encontro_DD_MM_AA/
+│ ├── AA_MM_DD/
 │ │ ├── desafio.md (enunciado)
 │ │ ├── solucao_nome1.ipynb
 │ │ └── solucao_nome2.ipynb (opcional)
-│ ├── encontro_DD_MM_AA/
+│ ├── AA_MM_DD/
 │ └── [....]
 ├── tutoriais/
 │ ├── guia_inicial.md 
