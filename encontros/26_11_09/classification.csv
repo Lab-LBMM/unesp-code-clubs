@@ -1,0 +1,41 @@
+user_genome,domain,phylum,class,order,family,genus,species,classification_method
+MAG01,Bacteria,Pseudomonadota,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Escherichia,Escherichia coli,ANI e Topologia
+MAG02,Bacteria,Bacillota,Bacilli,Bacillales,Bacillaceae,Bacillus,Bacillus subtilis,K-mer matching
+MAG03,Bacteria,Bacillota,Bacilli,Staphylococcales,Staphylococcaceae,Staphylococcus,Staphylococcus aureus,Alinhamento 16S
+MAG04,Bacteria,Pseudomonadota,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,Pseudomonas aeruginosa,ANI e Topologia
+MAG05,Bacteria,Pseudomonadota,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Salmonella,Salmonella enterica,K-mer matching
+MAG06,Bacteria,Pseudomonadota,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Klebsiella,Klebsiella pneumoniae,ANI e Topologia
+MAG07,Bacteria,Pseudomonadota,Gammaproteobacteria,Pseudomonadales,Moraxellaceae,Acinetobacter,Acinetobacter baumannii,Alinhamento 16S
+MAG08,Bacteria,Bacillota,Bacilli,Lactobacillales,Enterococcaceae,Enterococcus,Enterococcus faecalis,K-mer matching
+MAG09,Bacteria,Bacillota,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,Streptococcus pneumoniae,ANI e Topologia
+MAG10,Bacteria,Bacillota,Bacilli,Caryophanales,Listeriaceae,Listeria,Listeria monocytogenes,Alinhamento 16S
+MAG11,Bacteria,Campylobacterota,Campylobacteria,Campylobacterales,Helicobacteraceae,Helicobacter,Helicobacter pylori,ANI e Topologia
+MAG12,Bacteria,Pseudomonadota,Gammaproteobacteria,Vibrionales,Vibrionaceae,Vibrio,Vibrio cholerae,K-mer matching
+MAG13,Bacteria,Actinomycetota,Actinomycetes,Mycobacteriales,Mycobacteriaceae,Mycobacterium,Mycobacterium tuberculosis,Alinhamento 16S
+MAG14,Bacteria,Actinomycetota,Actinomycetes,Mycobacteriales,Corynebacteriaceae,Corynebacterium,Corynebacterium diphtheriae,ANI e Topologia
+MAG15,Fungi,Ascomycota,Saccharomycetes,Saccharomycetales,Saccharomycetaceae,Saccharomyces,Saccharomyces cerevisiae,Alinhamento ITS
+MAG16,Fungi,Ascomycota,Saccharomycetes,Saccharomycetales,Saccharomycetaceae,Candida,Candida albicans,Busca de Marcadores
+MAG17,Fungi,Ascomycota,Eurotiomycetes,Eurotiales,Aspergillaceae,Aspergillus,Aspergillus niger,Alinhamento ITS
+MAG18,Fungi,Ascomycota,Eurotiomycetes,Eurotiales,Aspergillaceae,Penicillium,Penicillium chrysogenum,K-mer matching
+MAG19,Fungi,Basidiomycota,Tremellomycetes,Tremellales,Tremellaceae,Cryptococcus,Cryptococcus neoformans,Alinhamento ITS
+MAG20,Archaea,Euryarchaeota,Methanobacteria,Methanobacteriales,Methanobacteriaceae,Methanobacterium,Methanobacterium formicicum,ANI e Topologia
+MAG21,Archaea,Crenarchaeota,Thermoprotei,Sulfolobales,Sulfolobaceae,Sulfolobus,Sulfolobus acidocaldarius,Alinhamento 16S
+MAG22,Archaea,Euryarchaeota,Halobacteria,Halobacteriales,Haloferacaceae,Haloferax,Haloferax volcanii,K-mer matching
+MAG23,Archaea,Euryarchaeota,Thermococci,Thermococcales,Thermococcaceae,Pyrococcus,Pyrococcus furiosus,ANI e Topologia
+MAG24,Bacteria,Bacillota,Clostridia,Clostridiales,Clostridiaceae,Clostridium,Clostridium botulinum,Alinhamento 16S
+MAG25,Bacteria,Cyanobacteriota,Cyanophyceae,Synechococcales,Synechococcaceae,Synechococcus,Synechococcus elongatus,ANI e Topologia
+MAG26,Fungi,Basidiomycota,Agaricomycetes,Agaricales,Agaricaceae,Agaricus,Agaricus bisporus,Alinhamento ITS
+MAG27,Bacteria,Bacillota,Bacilli,Lactobacillales,Streptococcaceae,Lactococcus,Lactococcus garvieae,K-mer matching
+MAG28,Bacteria,Bacillota,Bacilli,Lactobacillales,Lactobacillaceae,Lactobacillus,Lactobacillus acidophilus,Alinhamento 16S
+MAG29,Bacteria,Pseudomonadota,Gammaproteobacteria,Enterobacterales,Morganellaceae,Proteus,Proteus mirabilis,ANI e Topologia
+MAG30,Bacteria,Actinomycetota,Actinomycetes,Bifidobacteriales,Bifidobacteriaceae,Bifidobacterium,Bifidobacterium longum,K-mer matching
+MAG31,Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Bacteroidaceae,Bacteroides,Bacteroides fragilis,Alinhamento 16S
+MAG32,Bacteria,Fusobacteriota,Fusobacteriia,Fusobacteriales,Fusobacteriaceae,Fusobacterium,Fusobacterium nucleatum,ANI e Topologia
+MAG33,Bacteria,Spirochaetota,Spirochaetia,Spirochaetales,Treponemataceae,Treponema,Treponema pallidum,K-mer matching
+MAG34,Bacteria,Pseudomonadota,Betaproteobacteria,Neisseriales,Neisseriaceae,Neisseria,Neisseria gonorrhoeae,Alinhamento 16S
+MAG35,Bacteria,Chlamydiota,Chlamydiia,Chlamydiales,Chlamydiaceae,Chlamydia,Chlamydia trachomatis,ANI e Topologia
+MAG36,Bacteria,Mycoplasmatota,Mollicutes,Mycoplasmatales,Mycoplasmataceae,Mycoplasma,Mycoplasma pneumoniae,K-mer matching
+MAG37,Bacteria,Spirochaetota,Spirochaetia,Spirochaetales,Borreliaceae,Borrelia,Borrelia burgdorferi,Alinhamento 16S
+MAG38,Bacteria,Pseudomonadota,Alphaproteobacteria,Rickettsiales,Rickettsiaceae,Rickettsia,Rickettsia rickettsii,ANI e Topologia
+MAG39,Bacteria,Campylobacterota,Campylobacteria,Campylobacterales,Campylobacteraceae,Campylobacter,Campylobacter jejuni,K-mer matching
+MAG40,Bacteria,Pseudomonadota,Gammaproteobacteria,Legionellales,Legionellaceae,Legionella,Legionella pneumophila,Alinhamento 16S
